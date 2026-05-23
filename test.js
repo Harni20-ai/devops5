@@ -1,4 +1,4 @@
-const add = require('./app');                                                                                                     17 | Page 
+const add = require('./app');                                                                                                    
  
 if(add(2,3) === 5){ 
     console.log("Test Passed"); 
